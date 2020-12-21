@@ -138,6 +138,9 @@ hr {
         top: 20%;
         left: 12%;   
     }
+    .card-main {
+        height: 200px;
+    }
     .card-main img {
         left: 100px;
     }   
